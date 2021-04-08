@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+}
+
+a.hidden {
+    color: white;
+}
+
+a.hidden-period {
+    color: white;
+    font-size: 5px;
+}
+
+img.tiny {
+    width: 5px;
+    height: 5px;
+    margin-left: 60px;
+}
+
+div.tab {
+    text-align: center;
+}
+
+form.center {
+    text-align: center;
+}
